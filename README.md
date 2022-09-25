@@ -6,10 +6,8 @@ Table of Content
    1.1 Variabel ditinjau dari tingkat pengukurannya
    1.2 Uji Kenormalan
    1.3 Uji Homogenitas varians
-
 ..
 ..
-
 5. Hubungan Antar Variabel
    5.1 Koefisien Kontingensi Cramer
    ..
@@ -17,4 +15,4 @@ Table of Content
    5.8 Koefisien Korelasi Jaspen
    
 Reference :
-- Ngadiman N, Tity dan Sunengsih, Neneng. 2015. **Statistika Nonparametrik**. Sumedang : Universitas Padjadjaran.
+- Ngadiman N, Tity dan Sunengsih, Neneng. 2015. *Statistika Nonparametrik*. Sumedang : Universitas Padjadjaran.
